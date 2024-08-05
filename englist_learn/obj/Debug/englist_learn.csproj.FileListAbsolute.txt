@@ -1,0 +1,39 @@
+G:\Visual Studio Projeleri\LearnToEnglish\englist_learn\englist_learn\bin\Debug\englist_learn.exe.config
+G:\Visual Studio Projeleri\LearnToEnglish\englist_learn\englist_learn\bin\Debug\englist_learn.exe
+G:\Visual Studio Projeleri\LearnToEnglish\englist_learn\englist_learn\bin\Debug\englist_learn.pdb
+G:\Visual Studio Projeleri\LearnToEnglish\englist_learn\englist_learn\obj\Debug\englist_learn.csprojAssemblyReference.cache
+G:\Visual Studio Projeleri\LearnToEnglish\englist_learn\englist_learn\obj\Debug\englist_learn.Form1.resources
+G:\Visual Studio Projeleri\LearnToEnglish\englist_learn\englist_learn\obj\Debug\englist_learn.Properties.Resources.resources
+G:\Visual Studio Projeleri\LearnToEnglish\englist_learn\englist_learn\obj\Debug\englist_learn.csproj.GenerateResource.cache
+G:\Visual Studio Projeleri\LearnToEnglish\englist_learn\englist_learn\obj\Debug\englist_learn.exe
+G:\Visual Studio Projeleri\LearnToEnglish\englist_learn\englist_learn\obj\Debug\englist_learn.pdb
+D:\Visual Studio Projeleri\LearnToEnglish\englist_learn\englist_learn\bin\Debug\englist_learn.exe.config
+D:\Visual Studio Projeleri\LearnToEnglish\englist_learn\englist_learn\bin\Debug\englist_learn.exe
+D:\Visual Studio Projeleri\LearnToEnglish\englist_learn\englist_learn\bin\Debug\englist_learn.pdb
+D:\Visual Studio Projeleri\LearnToEnglish\englist_learn\englist_learn\obj\Debug\englist_learn.csprojAssemblyReference.cache
+D:\Visual Studio Projeleri\LearnToEnglish\englist_learn\englist_learn\obj\Debug\englist_learn.Form1.resources
+D:\Visual Studio Projeleri\LearnToEnglish\englist_learn\englist_learn\obj\Debug\englist_learn.Properties.Resources.resources
+D:\Visual Studio Projeleri\LearnToEnglish\englist_learn\englist_learn\obj\Debug\englist_learn.csproj.GenerateResource.cache
+D:\Visual Studio Projeleri\LearnToEnglish\englist_learn\englist_learn\obj\Debug\englist_learn.exe
+D:\Visual Studio Projeleri\LearnToEnglish\englist_learn\englist_learn\obj\Debug\englist_learn.pdb
+D:\Visual Studio Projeleri\LearnToEnglish\englist_learn\englist_learn\obj\Debug\englist_learn.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Project\LearnToEnglish\englist_learn\englist_learn\bin\Debug\englist_learn.exe.config
+C:\Users\Lenovo\Desktop\Project\LearnToEnglish\englist_learn\englist_learn\bin\Debug\englist_learn.exe
+C:\Users\Lenovo\Desktop\Project\LearnToEnglish\englist_learn\englist_learn\bin\Debug\englist_learn.pdb
+C:\Users\Lenovo\Desktop\Project\LearnToEnglish\englist_learn\englist_learn\obj\Debug\englist_learn.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Project\LearnToEnglish\englist_learn\englist_learn\obj\Debug\englist_learn.Form1.resources
+C:\Users\Lenovo\Desktop\Project\LearnToEnglish\englist_learn\englist_learn\obj\Debug\englist_learn.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Project\LearnToEnglish\englist_learn\englist_learn\obj\Debug\englist_learn.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Project\LearnToEnglish\englist_learn\englist_learn\obj\Debug\englist_learn.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Project\LearnToEnglish\englist_learn\englist_learn\obj\Debug\englist_learn.exe
+C:\Users\Lenovo\Desktop\Project\LearnToEnglish\englist_learn\englist_learn\obj\Debug\englist_learn.pdb
+C:\Users\Furkan\Desktop\Project\LearnToEnglish\englist_learn\englist_learn\bin\Debug\englist_learn.exe.config
+C:\Users\Furkan\Desktop\Project\LearnToEnglish\englist_learn\englist_learn\bin\Debug\englist_learn.exe
+C:\Users\Furkan\Desktop\Project\LearnToEnglish\englist_learn\englist_learn\bin\Debug\englist_learn.pdb
+C:\Users\Furkan\Desktop\Project\LearnToEnglish\englist_learn\englist_learn\obj\Debug\englist_learn.csproj.AssemblyReference.cache
+C:\Users\Furkan\Desktop\Project\LearnToEnglish\englist_learn\englist_learn\obj\Debug\englist_learn.Form1.resources
+C:\Users\Furkan\Desktop\Project\LearnToEnglish\englist_learn\englist_learn\obj\Debug\englist_learn.Properties.Resources.resources
+C:\Users\Furkan\Desktop\Project\LearnToEnglish\englist_learn\englist_learn\obj\Debug\englist_learn.csproj.GenerateResource.cache
+C:\Users\Furkan\Desktop\Project\LearnToEnglish\englist_learn\englist_learn\obj\Debug\englist_learn.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Project\LearnToEnglish\englist_learn\englist_learn\obj\Debug\englist_learn.exe
+C:\Users\Furkan\Desktop\Project\LearnToEnglish\englist_learn\englist_learn\obj\Debug\englist_learn.pdb
